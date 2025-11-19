@@ -1,13 +1,9 @@
 # Application-letter
-Here’s a professional **application letter with an expression of interest for an internship**:
-
----
-
-**Tumisang Trevor Sebabole**
-P.O Box 50331
-[City, Botswana]
-[Phone Number] | [Email Address]
-[Date]
+**Tumisang Trevor Sebabole**<br>
+P.O Box 50331<br>
+Gaborone,Botswana<br>
++26775455128| tumisangsebabole@yahoo.com<br>
+18 November 2025
 
 **[Recipient’s Name]**
 [Company/Organization Name]
@@ -18,7 +14,7 @@ P.O Box 50331
 
 Dear [Recipient’s Name],
 
-I am writing to express my interest in an internship opportunity at **[Company/Organization Name]**. I am a 17-year-old student currently studying **Business, Innovation, and Data Analytics (BIDA)** at **Botswana Accountancy College**, and I am eager to apply my knowledge and skills in a professional setting while gaining practical experience.
+I am writing to express my interest in an internship opportunity at **[Company/Organization Name]**. I am a 17-year-old student currently studying **Business Intelligence and Data Analytics** at **Botswana Accountancy College**, and I am eager to apply my knowledge and skills in a professional setting while gaining practical experience.
 
 Throughout my academic journey, I have developed a strong foundation in **data analysis, programming (Python and Java), and problem-solving**, as well as skills in **teamwork and communication** through group projects and volunteer work. I am particularly interested in applying these skills in a real-world environment, learning from experienced professionals, and contributing meaningfully to your organization’s projects and goals.
 
@@ -32,6 +28,3 @@ Yours sincerely,
 
 **Tumisang Trevor Sebabole**
 
----
-
-If you want, I can also **write a shorter, punchier version** that emphasizes your enthusiasm and is more likely to stand out to companies offering internships. Do you want me to do that?
